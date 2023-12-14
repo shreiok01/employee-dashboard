@@ -1,8 +1,6 @@
 import React from "react";
 import "../sidebar/sidebar.css";
-import { Typography } from "@mui/material";
 import {Dashboard} from "@mui/icons-material"
-import DashboardIcon from "@mui/icons-material/Dashboard";
 import PersonOutlineIcon from "@mui/icons-material/PersonOutline";
 import StoreIcon from "@mui/icons-material/Store";
 import CreditCardIcon from "@mui/icons-material/CreditCard";

@@ -1,13 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Home from './components/Home/Home';
+import "./App.css";
+import Home from "./components/Home/Home";
 // import Practice from './components/Practice';
 // import Table from './components/table/Table';
 
-
 function App() {
   return (
-    <div >
+    <div>
       {/* <h1>Sandeep Singh Tomar</h1> */}
       {/* <Table/> */}
       <Home />
